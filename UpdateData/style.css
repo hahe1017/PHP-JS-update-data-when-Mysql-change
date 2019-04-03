@@ -1,0 +1,36 @@
+th, td {
+  	border: 3px solid white ;
+}
+
+table {
+	border-collapse: collapse;
+    margin: 0 auto;
+    width: 85%;
+    height: 50%;
+}
+
+tr {
+	background-color: #f2f2f2;
+}
+
+th {
+font-weight: normal;
+text-align: center;
+background-color: #6b7074;
+color: white;
+padding: 10px;
+font-size: 30px;
+}
+
+td {
+padding: 20px 30px;
+text-align: center;
+font-size: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18%;
+}
